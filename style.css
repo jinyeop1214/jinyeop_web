@@ -35,14 +35,19 @@
 			margin:0;
 			padding-left:32px;
 		}
+		#grid .JS {
+			padding:0px;
+			margin:0;
+			padding-left:20px;
+		}
 		#grid ul {
 			padding:20px;
 			margin:0;
 			padding-left:32px;
 		}
-		#title {
+		/*#title {
 			color:black;
-		}
+		}*/
 		#article {
 			padding:20px;
 			border-right: 1px solid gray;
